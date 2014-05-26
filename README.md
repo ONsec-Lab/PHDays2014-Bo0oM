@@ -1,8 +1,7 @@
 There's Nothing so Permanent as Temporary
 =========
 
-
-#PHDays IV, 2014
+PHDays IV, 2014
 
 Slides http://www.slideshare.net/ssusera0a306/fast-track-35015385
 
