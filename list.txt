@@ -65,7 +65,7 @@
 /p.php
 
 #Configs
-/WEB-INF/context.xml
+/META-INF/context.xml
 /WEB-INF/web.xml
 /web.config
 /dataobject.ini
