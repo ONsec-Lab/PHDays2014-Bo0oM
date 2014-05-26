@@ -9,6 +9,8 @@ Slides http://www.slideshare.net/ssusera0a306/fast-track-35015385
 
 Bo0oM
 
-Twitter: i_bo0om
+Twitter: [@i_bo0om]
 
 Blog: http://bo0om.ru
+
+[@i_bo0om]:http://twitter.com/i_bo0om
